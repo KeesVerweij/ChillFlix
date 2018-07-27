@@ -1,12 +1,10 @@
 .header-image {
-    height: 100px;
+    height: 75px;
 }
-.main-content { 
+.main-content {
     background-color: yellow;
 }
-.edges { 
+.edges {
     background-color: grey;
 }
-.header { 
-    background-color: grey;
-}
+
