@@ -1,12 +1,15 @@
 .header-image {
     height: 100px;
 }
-.main-content { 
+.main-content {
     background-color: yellow;
 }
-.edges { 
+.edges {
     background-color: grey;
 }
-.header { 
+.header {
     background-color: grey;
+}
+.login-page {
+  background-color: #d3d3d3;
 }
