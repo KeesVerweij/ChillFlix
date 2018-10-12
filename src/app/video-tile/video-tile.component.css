@@ -1,0 +1,8 @@
+.tile {
+    background-color: lightgrey;
+    padding: 10px;
+    margin: 20px;
+    border-style: solid;
+    border-color: black;
+    height: 300px;
+}
